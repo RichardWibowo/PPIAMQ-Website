@@ -1,6 +1,6 @@
 import "./MembershipBenefit.sass";
-import AllBenefit from "./Membership benefit/AllBenefit";
-import NewMemberInvite from "./Membership benefit/NewMemberInvite";
+import AllBenefit from "./AllBenefit";
+import NewMemberInvite from "./NewMemberInvite";
 
 
 
